@@ -1,0 +1,4 @@
+./node_modeules
+Dockerfile
+.dockerignore
+docker-compose.yml
